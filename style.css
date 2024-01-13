@@ -1,0 +1,21 @@
+div h1{
+    font-size: 60px;
+    width: 1499px;
+    height: 500px;
+    text-align: center;
+}
+div h2{
+    text-align: center;
+}
+div h3{
+    font-size: 24px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    float: left;
+}
+div img{
+float: right;
+width: 550px;
+}
+div h5{
+    font-size: 45px;
+}
